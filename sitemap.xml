@@ -1,12 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://seripap.github.com/blog/2013/05/07/hello-world/</loc>
+        <lastmod>2013-05-07T12:57:19-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://seripap.github.com/about/</loc>
+        <lastmod>2013-05-07T12:57:47-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://seripap.github.com/blog/archives/</loc>
-        <lastmod>2013-05-07T12:51:26-04:00</lastmod>
+        <lastmod>2013-05-07T12:57:19-04:00</lastmod>
     </url>
     <url>
         <loc>http://seripap.github.com/</loc>
-        <lastmod>2013-05-07T12:51:26-04:00</lastmod>
+        <lastmod>2013-05-07T12:57:19-04:00</lastmod>
     </url>
     <url>
         <loc>http://seripap.github.com/robots.txt</loc>
