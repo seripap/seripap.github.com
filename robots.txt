@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://seripap.github.io/sitemap.xml 
